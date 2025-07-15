@@ -103,8 +103,5 @@
 
 ---
 
-### 🌱 GitHub Contributions
-
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=todok0317&theme=default)
 
 
