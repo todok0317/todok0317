@@ -93,6 +93,7 @@
 - 4개 팀 프로젝트 백엔드 팀장 경험  
 - 코드 리뷰 200+회 참여  
 
+---
 
 # 📊 GitHub 활동
 
@@ -102,5 +103,8 @@
 
 ---
 
+### 🌱 GitHub Contributions
+
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=todok0317&theme=default)
 
 
